@@ -24,8 +24,8 @@ This project was taken as an assignment issued by Web3bridge.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Nonnyjoe/social-proof-section-master)
-- Live Site URL: [Add live site URL here](https://nonnyjoe.github.io/social-proof-section-master/)
+- Solution URL: [Click here for solution URL](https://github.com/Nonnyjoe/Clipboard-landing-page)
+- Live Site URL: [Click here for live site](https://nonnyjoe.github.io/Clipboard-landing-page/)
 
 ### Built with
 
