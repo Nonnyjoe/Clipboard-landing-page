@@ -2,7 +2,6 @@
             text-align: center;
             font-family: 'Bai Jamjuree', sans-serif;
             font-weight: 400;
-            font-size: 18px;
             color: hsl(210, 10%, 33%);
             margin: 0px;
         }
@@ -176,9 +175,7 @@
         /* ipad screens */
         
         @media screen and (min-width: 601px) and (max-width: 763px) {
-            body {
-                font-size: 16px;
-            }
+            body {}
             .intro-txt {
                 width: 70%;
                 margin-left: auto;
@@ -212,8 +209,6 @@
             }
             .tools {
                 margin-bottom: 6rem;
-                font-size: 14px;
-                background-color: red;
             }
             .tools-container {
                 width: 85%;
@@ -249,9 +244,7 @@
         /* medium laptop screens */
         
         @media screen and (min-width: 764px) and (max-width: 1050px) {
-            body {
-                font-size: 16px;
-            }
+            body {}
             .intro-txt {
                 width: 60%;
                 margin-left: auto;
@@ -285,7 +278,6 @@
             }
             .tools {
                 margin-bottom: 6rem;
-                font-size: 15px;
             }
             .tools-container {
                 width: 85%;
