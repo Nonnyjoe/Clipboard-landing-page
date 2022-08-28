@@ -381,6 +381,9 @@
             .feautures p {
                 margin-top: 5px;
             }
+            .feautures-img {
+                padding: 0px 0px;
+            }
             .feautures-img img {
                 width: 300px;
                 align-self: center;
@@ -538,6 +541,9 @@
             }
             .feautures p {
                 margin-top: 5px;
+            }
+            .feautures-img {
+                padding: 0px 0px;
             }
             .feautures-img img {
                 width: 250px;
